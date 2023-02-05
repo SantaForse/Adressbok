@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adressbok", "Adressbok\Adressbok.csproj", "{AFE811A6-13A7-486C-9B37-587A3380EFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adressbok.Test", "Adressbok.Test\Adressbok.Test.csproj", "{9D160E1E-B028-4713-AB47-3FDE77A1AA4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE811A6-13A7-486C-9B37-587A3380EFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE811A6-13A7-486C-9B37-587A3380EFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE811A6-13A7-486C-9B37-587A3380EFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE811A6-13A7-486C-9B37-587A3380EFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D160E1E-B028-4713-AB47-3FDE77A1AA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D160E1E-B028-4713-AB47-3FDE77A1AA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D160E1E-B028-4713-AB47-3FDE77A1AA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D160E1E-B028-4713-AB47-3FDE77A1AA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B077F803-0BAE-4B2E-9603-3E165B3B8317}
+	EndGlobalSection
+EndGlobal
